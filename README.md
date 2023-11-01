@@ -34,7 +34,10 @@ The Fashion MNIST dataset is a collection of 70,000 grayscale images of 10 diffe
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Nehlr1/Classification_Fashion_MNIST.git`
+1. Clone the repository: 
+    ```
+    git clone https://github.com/Nehlr1/Classification_Fashion_MNIST.git
+    ```
 2. Installing virtualenv:
    - For Windows:
      ```
