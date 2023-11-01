@@ -89,3 +89,7 @@ After training the model, you can evaluate its performance using the `evaluate_m
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Tutorial Video
+
+https://github.com/Nehlr1/Classification_Fashion_MNIST/assets/87631464/6b63f913-1fd5-4dbd-9307-ac9d798efcdf
