@@ -6,6 +6,11 @@ This repository contains code for performing image classification on the Fashion
 
 The Fashion MNIST dataset is a collection of 70,000 grayscale images of 10 different fashion categories, with each image being a 28x28 pixel representation. The dataset is split into a training set of 60,000 images and a test set of 10,000 images.
 
+- Downlaod the dataset:
+  ```
+  https://www.kaggle.com/datasets/zalando-research/fashionmnist/data
+  ```
+
 ## Why CNN (Convolutional Neural Network) was used:
 - CNNs are perfect for handling picture data because they can recognize features at many levels of abstraction, from edges to intricate textures, and they can record hierarchical spatial patterns. They use parameter sharing to reduce overfitting and enhance generalization, and they offer translation invariance, which is necessary for applications like picture classification. CNNs also automatically extract features, which eliminates the need for human feature engineering.
 
